@@ -1,0 +1,15 @@
+/*Aplico en mi etiqueta div,para caelemento del div, dándole el tamaño a la altura, el ancho y margen*/
+div{
+  height: 100px;
+  padding: 30px;
+  margin: 30px;
+}
+/*Aplico al atributo class="yellow" un color de fondo*/
+.yellow{
+  background-color: rgb(255, 200, 10);
+}
+/*Aplico al atributo class="black" un color de fondo y un color blanco a la palabra dentro del bloque*/
+.black{
+  background-color: #000;
+  color: white;
+}
